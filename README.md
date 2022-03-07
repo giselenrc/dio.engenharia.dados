@@ -1,2 +1,2 @@
 # dio.engenharia.dados
-Repositório para armazenar projetos e anotações do bootcamp "Cognizant Cloud Data Engineer" da Dio.me.
+Repositório para armazenar conteúdo (anotações, desafios de código etc.) do bootcamp "Cognizant Cloud Data Engineer" da Dio.me.
