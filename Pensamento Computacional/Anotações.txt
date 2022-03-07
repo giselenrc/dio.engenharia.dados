@@ -1,0 +1,18 @@
+Pensamento Computacional - Refere-se ao processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.
+
+Habilidades Complementares:
+
+Raciocínio Lógico - è uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinara a redução de um problema.
+
+   Classificação do raciocínio lógico:
+      Indução: Ciências Experimentais
+      Dedução: Leis e teorias; Previsões/Explicações.
+      Abdução: Conclusões/Premissas.
+
+Aperfeiçoamento - A partir de uma solução, determinar pontos de melhora e refinamento (processo continuo; presente em todas as etapas):
+
+Melhor uso de recursos - >  - Encontrar uma solução eficiente;
+                            - Otimizar Processos;
+
+Melhorar códigos e algoritmos -> - Simplificar linhas de código;
+                                 - Funções bem definidas
