@@ -7,3 +7,8 @@ Links Úteis:
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
+[VM Ware Workstation Player 15](https://www.vmware.com/go/getplayer-win/)
+
+[Ubuntu 20.04 LTS](https://ubuntu.itsbrasil.net/ubuntu-releases/20.04/)
+
+
