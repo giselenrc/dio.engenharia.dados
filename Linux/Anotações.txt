@@ -1,0 +1,11 @@
+Fundamentos do Linux:
+
+- O linux é Multitarefa/Multiusuario;
+
+- O Linus pode ser "distribuído" por empresas, organizações ou mesmo pessoas, que podem colocar características próprias no S.O, como configurações, aplicações, sistema de instalação entre outras peculiaridades, assim damos o nome de distribuição, sua escolha é pessoas, depende da aplicação.
+
+- Distribuições mais conhecidas: Ubuntu, Debian, Suse, Fedora, RedHat, Kali.
+
+- Sistema Operacional Ubuntu: O Ubuntu é um S.O de código aberto que é desenvolvido pela Canonical com base no kernel Linux, tem bases no Debian e hoje é muito aceito por muitas comunidades de usuários.
+
+  
