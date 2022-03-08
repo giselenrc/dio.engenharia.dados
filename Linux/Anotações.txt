@@ -8,4 +8,29 @@ Fundamentos do Linux:
 
 - Sistema Operacional Ubuntu: O Ubuntu é um S.O de código aberto que é desenvolvido pela Canonical com base no kernel Linux, tem bases no Debian e hoje é muito aceito por muitas comunidades de usuários.
 
+Conhecendo o terminal e os primeiros comandos:
+
+- O terminal pode ser aberto de diversas formas, mas a sequência de teclas CTRL + ALT + T facilita seu acesso.
+
+- ~ (til) => Indica que estamos na pasta pessoal 
+- pwd => mostra o camimho no qual estamos logados no terminal;
+- ls ou dir (comando do windows, mas funciona no Linux) => mostra o conteúdo do diretório corrente
+- ls <nome_pasta> => Mostra o conteúdo da pasta informada
+- cd <nome_pasta> => Vai para o diretório oinformado
+- mkdir <nome_pasta> - Cria pasta com nome informado
+- cd.. => Retorna o diretório anterior
+- cd / => Vai para o diretório raiz do S.O
+- man ls => Manual do ls
+- ls --help > Manual em Português
+- mv - Move ou renomeia um arquivo ou diretório
+- touch <nome_arquivo> => Cria um arquivo sem conteúdo
+- rmdir <nome_diretorio> => Remove um diretório
+- rm <nome_arquivo> => Remove um arquivo
+
+Obs: A maioria dos comandos são iguais em todas as distribuiçõs.
+
+
+
+
+
   
