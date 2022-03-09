@@ -26,8 +26,40 @@ Conhecendo o terminal e os primeiros comandos:
 - touch <nome_arquivo> => Cria um arquivo sem conteúdo
 - rmdir <nome_diretorio> => Remove um diretório
 - rm <nome_arquivo> => Remove um arquivo
+- cal - exibe um calendário com mês corrente
+- date - exibe a data corrente
 
 Obs: A maioria dos comandos são iguais em todas as distribuiçõs.
+
+
+Manipulação de arquivos:
+
+
+Obs: Nano é um editor de texto totalmenete em linux.
+
+- nano <nome_do_arquivo> - Abre um arquivo para edição.
+- cat <nome_do_arquivo> - Abre um arquivo para visualização.
+- tac <nome_do_arquivo> - Inverte as linhas exibidas no arquivo
+- head <nome_do_arquivo> - Mostra as 10 primeiras linhas do arquivo
+- tail <nome_do_arquivo> - Mostra as 10 primeiras últimas linhas do arquivo
+- tail <nome_do_arquivo> | grep Linux - Procura nas 10 primeiras linhas do arquivo a palavra Linux
+- cal  > calendario.txt -> Adiciona a saída do comando cal no arquivo calendario.txt
+- date  >> calendario.txt -> Inclui a data corrente no arquivo calendario.txt sem sobrescrever o conteúdo anterior.
+- file <nome_do_arquivo> - Mostra as propriedades do arquivo
+- whatis <nome_comando> - Mostra o que o comando faz
+- find ~ -name <nome_do_arquivo> - Busca um arquivo pelo nome e exibe o caminho no terminal.
+
+
+Paginação de arquivos:
+
+cat <nome_do_arquivo> | more
+cat <nome_do_arquivo> | less
+
+
+
+
+
+
 
 
 
