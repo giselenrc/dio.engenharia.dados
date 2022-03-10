@@ -55,6 +55,10 @@ Paginação de arquivos:
 cat <nome_do_arquivo> | more
 cat <nome_do_arquivo> | less
 
+Diretórios e comandos essenciais:
+
+uname -m, arch - Exibir a arquitetura do Kernel Linux
+du - h /home - Viaulaizar espaço ocupado por cada arquivo e pasta dentro do diretório /home.
 
 
 
