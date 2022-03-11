@@ -11,4 +11,7 @@ Links Úteis:
 
 [Ubuntu 20.04 LTS](https://ubuntu.itsbrasil.net/ubuntu-releases/20.04/)
 
+[JSLinux (Run Linux or other Operating Systems in your browser!)](https://bellard.org/jslinux/)
+
+
 
